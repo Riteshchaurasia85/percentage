@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#main{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(224,125,180);
+    padding-top: 5px;
+}
+#heading{
+    width:100%;
+    height: 15%;
+    background-color: rgb(250, 212 ,162);
+    margin-top: 3px;
+    margin-bottom: 28px;
+    padding-left: 40%;
+    padding-bottom: 130px;
+
+}
+h1{
+    color: red;
+}
+#heading{
+    padding-left: 45%;
+    color: blue;
+}
+#percentage{
+    color: green;
+    width: 100%;
+    height: 35%;
+    background-color: aqua;
+    margin-bottom: 28px;
+}
+#hobby{
+    color: brown;
+    width: 100%;
+    height: 35%;
+    background-color: rgb(246, 246,186);
+
+}
+ul{
+   padding-left: 40px;
+}
